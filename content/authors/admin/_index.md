@@ -75,4 +75,4 @@ Also, I have been working as a Postdoctoral Researcher at UFSC, focused on optim
 
 In this context, I have been co-advising theses and dissertations in the area of optimization, including decomposition strategies such as Benders, Lagrange and Dantzig-Wolfe.
 
-- I'm the Program Chair of the IV International Academy of Astronautics Latin American CubeSat Workshop ([IAA-LACW 2020](http://iaalacw.org)).
+- I was the Program Chair of the IV International Academy of Astronautics Latin American CubeSat Workshop ([IAA-LACW 2020](http://iaalacw.org)).
