@@ -1,13 +1,13 @@
 ---
-title: "Integrated headway and bus priority control in transit corridors with bidirectional lane segments"
-date: 2020-02-01
-publishDate: 2020-04-19T04:19:04.887599Z
-authors: ["Laio Oriel Seman", "Luiz Alberto Koehler", "Eduardo Camponogara", "Werner Kraus Jr."]
+title: "A framework to estimate dwell time of BRT systems using fuzzy regression"
+date: 2020-04-01
+publishDate: 2020-11-09T16:08:59.324926Z
+authors: ["Laio Oriel Seman", "Victor Hugo Rodrigues Machado", "Luiz Alberto Koehler", "Eduardo Camponogara"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Transportation Research Part C: Emerging Technologies*"
-url_pdf: "https://linkinghub.elsevier.com/retrieve/pii/S0968090X1830857X"
-doi: "10.1016/j.trc.2019.12.001"
+publication: "*Journal of Intelligent & Fuzzy Systems*"
+url_pdf: "https://www.medra.org/servlet/aliasResolver?alias=iospress&doi=10.3233/JIFS-191904"
+doi: "10.3233/jifs-191904"
 ---
 
