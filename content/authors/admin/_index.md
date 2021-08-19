@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Federal University of Santa Catarina
+- name: University of Vale do Itajai
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

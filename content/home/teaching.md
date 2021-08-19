@@ -78,3 +78,4 @@ subtitle = ""
 **Current grad courses at UNIVALI:**
 
 - Optimization
+- Algorithm Analysis
